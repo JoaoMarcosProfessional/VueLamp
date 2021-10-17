@@ -97,7 +97,7 @@ button span {
     width: 700px;
     margin-left: 1px;
     opacity: 0;
-    transition: opacity 1s;
+    transition: opacity .5s;
 }
 
 .text-container {
